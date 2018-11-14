@@ -8,3 +8,10 @@ and hence you can see a mixture of true and false values for the flag underneath
 parent recurring task.
 
 For other MPP file types the recurring flag is easily identifiable.    
+
+
+# CAT 4.16.400
+# CAT-799: Retrieve change step count from repository
+1. 
+2. 
+3. 
