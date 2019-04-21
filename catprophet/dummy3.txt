@@ -1,9 +1,9 @@
 dummy
 
 目次
-1	概要
-2	生涯
-2.1	出生と出自
+1	概要 xxxxxxxxxxxx
+2	生涯 xxxxxxxxxxxx
+2.1	出生と出自 xxxxxxxxxxx
 2.2	少年期
 2.2.1	ユダヤ教徒としての少年期
 2.2.2	イングランド国教会信徒に
@@ -111,6 +111,28 @@ Angelica Veronica Airola
 Giuseppe Alabardi
 Francesco Albani
 Giacomo Alberelli
+Giovanni Lorenzo Bertolotti
+Antonia Bertucci-Pinelli
+Lodovico Bertucci
+Giovanni Battista Bertusio
+Ercole Gaetano Bertuzzi
+Paolo Emilio Besenzi
+Ambrogio Besozzi
+Bartolomeo Bettera
+Biagio Betti
+Domenico Bettini
+Pietro Bettini
+Baldassare Bianchi
+Federico Bianchi (painter)
+Isidoro Bianchi
+Orazio Bianchi
+Pietro Bianchi (painter)
+Paolo Biancucci
+Carlo Biffi
+Vittorio Bigari
+Giovanni Biliverti
+
+
 Giorgio Alberino
 Cherubino Alberti
 Durante Alberti
@@ -277,23 +299,3 @@ Laura Bernasconi
 Gian Lorenzo Bernini
 Niccolò Berrettoni
 Carlo Girolamo Bersotti
-Giovanni Lorenzo Bertolotti
-Antonia Bertucci-Pinelli
-Lodovico Bertucci
-Giovanni Battista Bertusio
-Ercole Gaetano Bertuzzi
-Paolo Emilio Besenzi
-Ambrogio Besozzi
-Bartolomeo Bettera
-Biagio Betti
-Domenico Bettini
-Pietro Bettini
-Baldassare Bianchi
-Federico Bianchi (painter)
-Isidoro Bianchi
-Orazio Bianchi
-Pietro Bianchi (painter)
-Paolo Biancucci
-Carlo Biffi
-Vittorio Bigari
-Giovanni Biliverti
